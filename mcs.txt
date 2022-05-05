@@ -1,6 +1,13 @@
 Git learning
 
 hi from git lab
+<<<<<<< HEAD
 
 
 this is test mail
+=======
+hi from git
+>>>>>>> 466e8b045229f47231b1ed89c2667b9dc5d50d7f
+
+
+hi from mcs student
